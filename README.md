@@ -1,2 +1,5 @@
-# rasheedk.github.io
-Official Git Hub Page of Muhammed Rasheed 
+# Muhammed Rasheed
+
+Official GitHub page of Muhammed Rasheed 
+
+
